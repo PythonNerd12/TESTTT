@@ -1,0 +1,20 @@
+{
+  "preset_1": {
+    "message": "This server is being nuked! Be ready!",
+    "new_server_name": "Nuked Server 1",
+    "change_notification": true,
+    "add_admin": true,
+    "channel_name": "Preset1-Channel",
+    "text_channel_amount": 5,
+    "voice_channel_amount": 3
+  },
+  "preset_2": {
+    "message": "Prepare for total destruction!",
+    "new_server_name": "Nuked Server 2",
+    "change_notification": false,
+    "add_admin": false,
+    "channel_name": "Preset2-Channel",
+    "text_channel_amount": 10,
+    "voice_channel_amount": 5
+  }
+}
